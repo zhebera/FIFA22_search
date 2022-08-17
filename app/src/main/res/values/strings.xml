@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FIFA22 search</string>
+
+    <integer name="player_photo_size">96</integer>
+</resources>
